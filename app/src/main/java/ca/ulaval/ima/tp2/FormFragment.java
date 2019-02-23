@@ -15,10 +15,7 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Spinner;
-import android.widget.TextView;
-
 import java.util.Calendar;
-import java.util.Locale;
 
 
 /**
